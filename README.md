@@ -25,7 +25,11 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
 
 ![photo_2022-09-19_00-10-37](https://user-images.githubusercontent.com/66267894/190923382-7af116ea-cd8b-4d9c-bf00-047f0507469b.jpg)
 
+#### Everytime we click on the "GetPuzzle" , we get a new puzzle.
+
 ![photo_2022-09-19_00-15-39](https://user-images.githubusercontent.com/66267894/190923485-71c29973-dc84-469d-bc5f-5e29fa1488eb.jpg)
+
+#### After clicking on the "SolvePuzzle" , the puzzle gets solved.
 
 
 ![photo_2022-09-19_00-16-11](https://user-images.githubusercontent.com/66267894/190923490-d857bd76-9297-41eb-bc3b-9b651efba4e1.jpg)
